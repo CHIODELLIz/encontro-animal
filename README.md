@@ -1,12 +1,12 @@
-## TERMO DE USO DE APLICATIVO
+# TERMO DE USO DE APLICATIVO
 
-# ACEITAÇÃO
+## ACEITAÇÃO
 
 Este é um contrato firmado entre você, de agora em diante denominado como usuário, e a Encontro Animal Ltda, Microempresa de Sociedade Limitada cadastrada no CNPJ sob no xxxxxxx com sede no município de Santos, São Paulo, a Rua Dr. Carvalho de Mendonça 591, e de agora em diante denominada simplesmente de Encontro Animal. Este “Termo de Uso de Aplicativo” rege o uso de todos os aplicativos disponibilizados gratuitamente pela Encontro Animal sejam para dispositivos móveis (Android, IOS), servidores, computadores pessoais (desktops) ou serviços web. Se você não concordar com estes termos não use este aplicativo. 
 
 Você reconhece que analisou e aceitou as condições de uso. Leia-as atentamente pois o uso deste aplicativo significa que você aceitou todos os termos e concorda em cumpri-los. Se você, usuário, for menor de idade ou declarado incapaz em quaisquer aspectos, precisará da permissão de seus pais ou responsáveis que também deverão concordar com estes mesmos termos e condições. 
 
-# LICENÇA LIMITADA 
+## LICENÇA LIMITADA 
 
 Você recebeu uma licença limitada, não transferível, não exclusiva, livre de royalties e revogável para baixar, instalar, executar e utilizar este aplicativo em seu dispositivo. Você reconhece e concorda que a Encontro Animal concede ao usuário uma licença exclusiva para uso e desta forma não lhe transfere os direitos sobre o produto. 
 
@@ -14,7 +14,7 @@ A licença concedida ao usuário pelo Encontro Animal, é ainda pessoal, univers
 
 O aplicativo deverá ser utilizado por você, usuário. A venda, transferência, modificação, engenharia reversa ou distribuição bem como a cópia de textos, imagens ou quaisquer partes nele contido é expressamente proibida. 
 
-# ALTERAÇÕES, MODIFICAÇÕES E RESCISÃO 
+## ALTERAÇÕES, MODIFICAÇÕES E RESCISÃO 
 
 A Encontro Animal reserva-se no direito de, a qualquer tempo, modificar estes termos seja incluindo, removendo ou alterando quaisquer de suas cláusulas. Tais modificações terão efeito imediato. Após publicadas tais alterações, ao continuar com o uso do aplicativo você terá aceitado e concordado em cumprir os termos modificados. 
 
@@ -27,11 +27,11 @@ A Encontro Animal não é obrigada a fornecer nenhum serviço de suporte para es
 O usuário não poderá responsabilizar a Encontro Animal nem seus diretores, executivos, funcionários, afiliados, agentes, contratados ou licenciadores por quaisquer modificações, suspensões ou descontinuidade do aplicativo. 
 Você pode encerrar sua conta a qualquer momento, por qualquer motivo. 
 
-# CONSENTIMENTO PARA COLETA E USO DE DADOS 
+## CONSENTIMENTO PARA COLETA E USO DE DADOS 
 
 Você concorda que a Encontro Animal pode coletar e usar dados técnicos de seu dispositivo tais como especificações, configurações, versões de sistema operacional, tipo de conexão à internet e afins. 
 
-# ISENÇÃO DE GARANTIAS E LIMITAÇÕES DE RESPONSABILIDADE 
+## ISENÇÃO DE GARANTIAS E LIMITAÇÕES DE RESPONSABILIDADE 
 
 Este aplicativo estará em contínuo desenvolvimento e pode conter erros e, por isso, o uso é fornecido "no estado em que se encontra" e sob risco do usuário final. Na extensão máxima permitida pela legislação aplicável a Encontro Animal e seus fornecedores isentam-se de quaisquer garantias e condições expressas ou implícitas incluindo, sem limitação, garantias de comercialização, adequação a um propósito específico, titularidade e não violação no que diz respeito ao aplicativo e qualquer um de seus componentes ou ainda à prestação ou não de serviços de suporte. A Encontro Animal não garante que a operação deste aplicativo seja contínua e sem defeitos. 
 
@@ -57,7 +57,7 @@ Embora a Encontro Animal se esforce para incentivar uma experiência de usuário
 
 Você é o único responsável por suas interações com outros usuários. Você compreende que a Encontro Animal não investiga os antecedentes criminais dos usuários, nem verifica o histórico dos usuários. A Encontro Animal não manifesta declarações ou garantias em relação à conduta dos usuários. 
 
-# DAS OBRIGAÇÕES DO USUÁRIO
+## DAS OBRIGAÇÕES DO USUÁRIO
 
 Você concorda em não:
 	•	usar o Serviço, ou qualquer conteúdo contido no Serviço, para fins comerciais sem a nossa autorização por escrito;
@@ -89,7 +89,7 @@ Em consideração ao Encontro Animal, o qual permite que você utilize o Serviç
 
 Você concorda que a Encontro Animal poderá acessar, preservar e divulgar as informações da sua conta e Conteúdo se exigido por lei ou se acreditar, de boa fé, que o acesso, preservação ou divulgação seja razoavelmente necessário para: (i) cumprir com um processo judicial; (ii) fazer cumprir este Contrato; (iii) responder a reivindicações de qualquer Conteúdo que viole os direitos de terceiros; (iv) responder às suas solicitações de atendimento ao cliente; ou (v) proteger os direitos, bens ou segurança pessoal da Empresa ou de qualquer outra pessoa.
 
-# DAS OBRIGAÇÕES JUNTO À COMUNIDADE
+## DAS OBRIGAÇÕES JUNTO À COMUNIDADE
 
 Ao utilizar o Serviço, você concorda em não:
 
