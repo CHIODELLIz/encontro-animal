@@ -60,19 +60,33 @@ Você é o único responsável por suas interações com outros usuários. Você
 ## DAS OBRIGAÇÕES DO USUÁRIO
 
 Você concorda em não:
+	
 	•	usar o Serviço, ou qualquer conteúdo contido no Serviço, para fins comerciais sem a nossa autorização por escrito;
+	
 	•	copiar, modificar, transmitir, criar trabalhos derivados, fazer uso ou reproduzir em qualquer formato materiais protegidos por direitos autorais, imagens, marcas comerciais, nomes comerciais, marcas de serviço ou outros direitos de propriedade intelectual, conteúdo ou informações de propriedade exclusiva acessíveis através do Serviço, sem a autorização prévia por escrito da Encontro Animal;
+	
 	•	expressar ou sugerir que suas declarações sejam endossadas pela Encontro Animal;
+	
 	•	utilizar robô, bot, spider, rastreador, scraper, aplicativo de busca/recuperação de site, proxy ou outro dispositivo, método ou processo manual ou automático para acessar, recuperar, indexar, realizar “data mine” ou, de outra forma, reproduzir ou contornar a estrutura de navegação ou apresentação do Serviço ou conteúdos;
+	
 	•	utilizar o Serviço de forma que possa interferir, interromper ou afetar negativamente o Serviço, os servidores ou redes conectadas ao Serviço;
+	
 	•	enviar vírus ou outro código malicioso ou, de outra forma, comprometer a segurança do Serviço;
+	
 	•	forjar cabeçalhos ou manipular outros identificadores para disfarçar a origem das informações transmitidas para ou através do Serviço;
+	
 	•	"enquadrar" ou "espelhar" qualquer parte do Serviço sem autorização prévia por escrito da Encontro Animal;
+	
 	•	utilizar meta-tags, códigos ou outros dispositivos que contenham referências ao Encontro Animal ou ao Serviço (ou marca comercial, marca registrada, marca de serviço, logotipo ou slogan da Encontro Animal) para direcionar pessoas para outro site, para qualquer fim;
+	
 	•	modificar, adaptar, sublicenciar, traduzir, vender, promover engenharia reversa, decifrar, descompilar ou desmontar qualquer parte do Serviço ou fazer com que outras pessoas o façam;
+	
 	•	utilizar ou desenvolver aplicativos de terceiros que interajam com o Serviço, o conteúdo ou informações de outros usuários sem a nossa autorização por escrito;
+	
 	•	utilizar, acessar ou publicar a interface de programação do aplicativo Encontro Animal sem a nossa autorização por escrito;
+	
 	•	verificar, analisar ou testar a vulnerabilidade de nosso Serviço ou de qualquer sistema ou rede.
+	
 	•	incentivar ou promover qualquer atividade que viole este Contrato.
   
 A Empresa pode investigar e tomar todas as medidas legalmente disponíveis em resposta a usos ilegais e/ou não autorizados do Serviço, inclusive o cancelamento da sua conta.
